@@ -1,0 +1,6 @@
+nombre,cuil,legajo,empleador,cuit_empleador,periodo,categoria,sueldo_bruto,porcentaje_art,porcentaje_sindicato,es_pyme
+Juan Pérez,20-12345678-9,0012,ACME SRL,30-71234567-8,Julio 2026,Administrativo,1000000,3.0,2.5,si
+María Gómez,27-23456789-0,0045,ACME SRL,30-71234567-8,Julio 2026,Ventas,1450000,2.5,1.8,si
+Carlos López,20-34567890-1,0102,Industrias del Sur SA,30-70987654-3,Julio 2026,Producción,1850000,4.2,3.0,no
+Lucía Fernández,27-45678901-2,0210,Industrias del Sur SA,30-70987654-3,Julio 2026,Supervisión,2600000,4.2,0.4,no
+Diego Martínez,20-56789012-3,0033,ACME SRL,30-71234567-8,Julio 2026,Logística,1200000,3.5,2.0,si

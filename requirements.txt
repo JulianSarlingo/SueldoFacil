@@ -1,0 +1,10 @@
+# Dependencias del sistema de recibos (Decreto 407/2026)
+# Motor de cálculo: solo stdlib (decimal, dataclasses).
+# GUI: Tkinter (viene con Python, cero dependencias).
+matplotlib>=3.7      # Gráfico de torta obligatorio
+reportlab>=4.0       # Render del recibo en PDF
+openpyxl>=3.1        # Lectura de .xlsx (sin pandas)
+requests>=2.28       # Requerido por Seguridad (licencias vía Firestore)
+
+# Módulo de seguridad/licencias (se instala editable desde la lib compartida):
+#   pip install -e "C:\Users\Julian\Desktop\Programacion\libs\seguridad-licencias"

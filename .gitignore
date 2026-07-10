@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# Recibos generados (datos reales de sueldos/CUIL de empleados: nunca al repo)
+data/*.pdf
+data/recibos_generados/
+
+# Arte de diseño intermedio del icono (no hace falta para el build)
+Gemini_Generated_Image_*.png
+Icono.ico
